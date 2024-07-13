@@ -1,0 +1,110 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1002,5): warning MSB8027: Two or more files with the name of TcpSession.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are chatserversrc\TcpSession.cpp, fileserversrc\TcpSession.cpp, common\TcpSession.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1002,5): warning MSB8027: Two or more files with the name of main.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are fileserversrc\main.cpp, chatserversrc\main.cpp.
+  fileutil.cpp
+D:\ChromeCoreDownloads\flamingo_server\base\fileutil.cpp(7,10): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  logfile.cpp
+D:\ChromeCoreDownloads\flamingo_server\base\logfile.cpp(112,2): error C3861: “gmtime_r”: 找不到标识符
+  logging.cpp
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(12,10): error C2144: 语法错误:“char”的前面应有“;”
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(12,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(13,10): error C2144: 语法错误:“char”的前面应有“;”
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(13,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(13,1): error C2086: “int __thread”: 重定义
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(12): message : 参见“__thread”的声明
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(14,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(14,1): error C2086: “int __thread”: 重定义
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(12): message : 参见“__thread”的声明
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(14,10): error C2146: 语法错误: 缺少“;”(在标识符“time_t”的前面)
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(18,9): error C3861: “strerror_r”: 找不到标识符
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(105,17): error C2065: “t_lastSecond”: 未声明的标识符
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(107,3): error C2065: “t_lastSecond”: 未声明的标识符
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(110,5): error C2039: “gmtime_r”: 不是“`global namespace'”的成员
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(110,13): error C3861: “gmtime_r”: 找不到标识符
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(179,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(202,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : 参见“strncpy”的声明
+D:\ChromeCoreDownloads\flamingo_server\base\logging.cpp(206,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+  logstream.cpp
+D:\ChromeCoreDownloads\flamingo_server\base\logstream.cpp(17,9): warning C4068: 未知的 pragma
+D:\ChromeCoreDownloads\flamingo_server\base\logstream.h(48,20): error C2039: “bzero”: 不是“`global namespace'”的成员
+D:\ChromeCoreDownloads\flamingo_server\base\logstream.h(48): message : 在编译 类 模板 成员函数“void detail::FixedBuffer<4000000>::bzero(void)”时
+D:\ChromeCoreDownloads\flamingo_server\base\logstream.cpp(74): message : 查看对正在编译的 类 模板 实例化“detail::FixedBuffer<4000000>”的引用
+D:\ChromeCoreDownloads\flamingo_server\base\logstream.h(48,1): error C2660: “detail::FixedBuffer<4000000>::bzero”: 函数不接受 2 个参数
+D:\ChromeCoreDownloads\flamingo_server\base\logstream.h(48,8): message : 参见“detail::FixedBuffer<4000000>::bzero”的声明
+  timestamp.cpp
+  TcpSession.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\endian.h(4,10): fatal error C1083: 无法打开包括文件: “endian.h”: No such file or directory
+  ngx_md5.cpp
+  databasemysql.cpp
+D:\ChromeCoreDownloads\flamingo_server\database\databasemysql.h(4,10): fatal error C1083: 无法打开包括文件: “mysql/mysql.h”: No such file or directory
+  field.cpp
+  queryresult.cpp
+D:\ChromeCoreDownloads\flamingo_server\database\queryresult.h(4,10): fatal error C1083: 无法打开包括文件: “mysql/mysql.h”: No such file or directory
+  FileManager.cpp
+D:\ChromeCoreDownloads\flamingo_server\fileserversrc\FileManager.cpp(7,10): fatal error C1083: 无法打开包括文件: “dirent.h”: No such file or directory
+  FileSession.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\endian.h(4,10): fatal error C1083: 无法打开包括文件: “endian.h”: No such file or directory
+  FileServer.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\inetaddress.h(3,10): fatal error C1083: 无法打开包括文件: “netinet/in.h”: No such file or directory
+  main.cpp
+D:\ChromeCoreDownloads\flamingo_server\fileserversrc\main.cpp(8,10): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  MD5.cpp
+  TcpSession.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\endian.h(4,10): fatal error C1083: 无法打开包括文件: “endian.h”: No such file or directory
+  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+  ClientSession.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\endian.h(4,10): fatal error C1083: 无法打开包括文件: “endian.h”: No such file or directory
+  正在生成代码...
+  正在编译...
+  IMServer.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\inetaddress.h(3,10): fatal error C1083: 无法打开包括文件: “netinet/in.h”: No such file or directory
+  main.cpp
+D:\ChromeCoreDownloads\flamingo_server\chatserversrc\main.cpp(8,10): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+  MsgCacheManager.cpp
+  UserManager.cpp
+D:\ChromeCoreDownloads\flamingo_server\database\databasemysql.h(4,10): fatal error C1083: 无法打开包括文件: “mysql/mysql.h”: No such file or directory
+  mysqlmanager.cpp
+D:\ChromeCoreDownloads\flamingo_server\database\databasemysql.h(4,10): fatal error C1083: 无法打开包括文件: “mysql/mysql.h”: No such file or directory
+  TcpSession.cpp
+c1xx : fatal error C1083: 无法打开源文件: “common\TcpSession.cpp”: No such file or directory
+  mysqlthrd.cpp
+D:\ChromeCoreDownloads\flamingo_server\database\databasemysql.h(4,10): fatal error C1083: 无法打开包括文件: “mysql/mysql.h”: No such file or directory
+  mysqlthrdmgr.cpp
+D:\ChromeCoreDownloads\flamingo_server\database\databasemysql.h(4,10): fatal error C1083: 无法打开包括文件: “mysql/mysql.h”: No such file or directory
+  tasklist.cpp
+  acceptor.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\sockets.h(3,10): fatal error C1083: 无法打开包括文件: “arpa/inet.h”: No such file or directory
+  buffer.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\buffer.cpp(4,10): fatal error C1083: 无法打开包括文件: “sys/uio.h”: No such file or directory
+  channel.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\channel.cpp(8,10): fatal error C1083: 无法打开包括文件: “poll.h”: No such file or directory
+  connector.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\inetaddress.h(3,10): fatal error C1083: 无法打开包括文件: “netinet/in.h”: No such file or directory
+  epollpoller.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\epollpoller.cpp(4,10): fatal error C1083: 无法打开包括文件: “poll.h”: No such file or directory
+  eventloop.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\eventloop.cpp(9,10): fatal error C1083: 无法打开包括文件: “sys/eventfd.h”: No such file or directory
+  eventloopthread.cpp
+  eventloopthreadpool.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\eventloopthreadpool.cpp(45,25): error C2131: 表达式的计算结果不是常数
+D:\ChromeCoreDownloads\flamingo_server\net\eventloopthreadpool.cpp(45,12): message : 因读取超过生命周期的变量而失败
+D:\ChromeCoreDownloads\flamingo_server\net\eventloopthreadpool.cpp(45,12): message : 请参见“this”的用法
+  inetaddress.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\inetaddress.h(3,10): fatal error C1083: 无法打开包括文件: “netinet/in.h”: No such file or directory
+  protocolstream.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\protocolstream.cpp(7,10): fatal error C1083: 无法打开包括文件: “arpa/inet.h”: No such file or directory
+  sockets.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\sockets.h(3,10): fatal error C1083: 无法打开包括文件: “arpa/inet.h”: No such file or directory
+  正在生成代码...
+  正在编译...
+  tcpclient.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\endian.h(4,10): fatal error C1083: 无法打开包括文件: “endian.h”: No such file or directory
+  tcpconnection.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\sockets.h(3,10): fatal error C1083: 无法打开包括文件: “arpa/inet.h”: No such file or directory
+  tcpserver.cpp
+D:\ChromeCoreDownloads\flamingo_server\net\endian.h(4,10): fatal error C1083: 无法打开包括文件: “endian.h”: No such file or directory
+  正在生成代码...

@@ -1,0 +1,69 @@
+import "base.proto";
+package tms;
+
+message TalkMsg 
+{
+	required uint32 uSendID = 1[default = 0];
+	required uint32 uTargetID = 2[default = 0];
+	optional uint32 uMsgID = 3[default = 0];
+	required string msg = 4 ;
+}
+
+message TalkMsgAns 
+{
+    required uint32 uError = 1[default = 0];
+    required uint32 uTargetID = 2[default = 0];
+    required uint32 uMsgID = 3[default = 0];
+}
+
+message PullTalkMsgReq
+{
+	required uint32 uTargetID  = 1[default = 0];
+	required uint32 uMsgID = 2[default = 0];
+}
+
+message MsgInfoNotify
+{
+    message MsgInfo
+	{
+		required uint32 uTargetID  = 1[default = 0];
+		required uint32 uMsgID = 2[default = 0];
+	}
+	
+	repeated MsgInfo MsgInfos = 1;
+}
+
+// server message
+message TalkMsgBaseList
+{
+    message TalkMsgBase
+	{
+		required uint64 uTalkID = 1[default = 0];
+		required uint32 uMsgID = 2[default = 0];
+	}
+	
+	repeated TalkMsgBase TalkMsgBases = 1;
+}
+
+message ChatMsgBaseList
+{
+    message ChatMsgBase
+	{
+		required uint32 uChatID = 1[default = 0];
+		required uint32 uMsgID = 2[default = 0];
+	}
+	
+	repeated ChatMsgBase ChatMsgBases = 1;
+}
+
+message UserMsgIDList
+{
+    message UserMsgID
+	{
+		required uint32 uSendID = 1[default = 0];
+		required uint32 uTargetID = 2[default = 0];
+		required uint32 uMsgID = 3[default = 0];
+	}
+	
+	repeated UserMsgID UserMsgIDs = 1;
+}

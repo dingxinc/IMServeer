@@ -1,0 +1,158 @@
+import "base.proto";
+package tms;
+
+enum OnlineState
+{
+    OnlineState_Offline = 0;
+	OnlineState_Online = 1;
+}
+
+message UTargetSelfparam
+{
+    required string strNickName = 1;
+}
+
+message UserTargets
+{
+    repeated UTarget UTargets = 1;
+}
+
+message UserPrivateInfo
+{
+    optional uint32 nGender = 1[default = 0];
+    optional uint32 uBirthday = 2[default = 0];
+    optional uint32 utmRegtime = 3[default = 0];
+    optional uint32 nClientType = 4[default = 0];
+    optional string strSigature = 5;
+}
+
+message UserInfo
+{
+    required TargetInfo TargetInfos = 2;
+    optional UserPrivateInfo PrivateInfos = 3;
+}
+
+message UserInfo_Old
+{
+    required TargetInfo TargetInfos = 1;
+    optional UserPrivateInfo PrivateInfos = 2;
+	optional TargetsNotify TargetsNotifys = 3;
+	
+}
+message UserOnlineInfo
+{
+    required uint32 uAccountID = 1[default = 0];
+    required uint32 uLoginFlag = 2[default = 0];
+}
+
+message LoginInfo
+{
+	required string strAccountNo = 1;
+	required string strPasswd =2;
+	optional uint32 uLoginFlags =3[default = 0];// 终端自定义字段
+}
+
+message RegisterInfo
+{
+	required string strAccountNo = 1;
+	required string strPasswd =2;
+	required string strNickName=3;
+}
+
+message UserInfoReq
+{
+	enum cmd{
+	    PublicInfo = 0;
+	    UserTargets = 1;
+	    UserPrivateInfo = 2;
+	    UserInfo = 3;
+		UserInfo_Old = 4;
+	}
+	required cmd ncmd = 1[default = UserInfo];
+}
+
+message TargetsQuery
+{
+	required string strAccountNo = 1;
+	required string strNickName = 2;
+}
+
+message UpdateUserInfo
+{
+	optional string strNickName = 1;
+	optional uint32 nFace = 2[default = 0];
+	optional UserPrivateInfo PrivateInfos = 3;
+}
+
+// Targets添加
+message TargetsAdd
+{
+	enum cmd{
+	    Apply = 0; // 申请
+	    Applied = 1;
+	    Agree = 2; // 同意
+	    Agreed = 3;
+	    Refuse = 4; // 拒绝
+	    Refused = 5;
+	    Delete = 6; // 删除
+	    Deleted = 7;
+	    Fail = 8;
+	}
+	required uint32 uTargetID = 1[default = 0]; // Targets ID
+	required cmd ncmd = 2[default = Apply];
+}
+
+message UpdateTargetInfo
+{
+	required uint32 uTargetID  = 1[default = 0];
+	optional string strNickName = 2;
+	optional bytes selfparam = 3;
+}
+
+message UserInfoNotify
+{
+    required uint32 uAccountID = 1[default = 0];
+    optional string strAccountNo = 2;
+    optional string strNickName = 3;
+    optional uint32 nFace = 4[default = 0];
+    optional UserPrivateInfo PrivateInfos = 5;
+}
+
+// Targets添加 通知
+message TargetsAddNotify
+{
+	required TargetsAdd TargetsAdds= 1;
+	required TargetInfo TargetInfos = 3; // Targets 信息
+}
+
+message TargetsNotify
+{
+	repeated Targets Targetss = 1;
+}
+
+message UserOnlineNotify
+{
+    required uint32 uAccountID = 1[default = 0];
+	required uint32 uServerID = 2[default = 0];
+    required uint32 uLoginFlag = 3[default = 0];
+}
+
+message UserLoginFlag
+{
+	required uint32 uAccountID = 1[default = 0];
+	required uint32 uLoginFlags =2[default = 0];
+}
+
+message UserLoginFlagList
+{
+    repeated UserLoginFlag UserLoginFlags = 1;
+}
+
+//聊天室
+message ChatUser
+{
+    required uint32 uAccountID = 1[default = 0];
+	required uint32 uTargetID = 2[default = 0];
+    required uint32 uRight = 3[default = 0];
+}
+

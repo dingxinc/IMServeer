@@ -1,0 +1,9 @@
+[2021-01-18 16:03:08:0669][Normal] [ThreadID:22840][void __thiscall CSendMsgThread::HandleLogon(const class CLoginRequest *)]Request logon: Account=18888888888, Password=*****, Status=10382044, LoginType=1.
+[2021-01-18 16:03:08:0704][Normal] [ThreadID:22840][void __thiscall CSendMsgThread::HandleUserBasicInfo(const class CUserBasicInfoRequest *)]Request to get userinfo.
+[2021-01-18 16:03:08:0713][Normal] [ThreadID:24496][int __thiscall CRecvMsgThread::HandleUserBasicInfo(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)]Recv user basic info, info count=5:
+[2021-01-18 16:03:08:0731][Normal] [ThreadID:23308][void __thiscall CMainDlg::UpdateBuddyTreeCtrl(unsigned int)]AccountID=1, AccountName=13467535874 - 1, NickName=yifeiyun, MarkName=.
+[2021-01-18 16:03:08:0732][Normal] [ThreadID:23308][void __thiscall CMainDlg::UpdateBuddyTreeCtrl(unsigned int)]AccountID=3, AccountName=341742042 - 3, NickName=ÎÒµÄÍ·ÏñÊÇºüÀê, MarkName=.
+[2021-01-18 16:03:08:0734][Normal] [ThreadID:23308][void __thiscall CMainDlg::UpdateBuddyTreeCtrl(unsigned int)]AccountID=4, AccountName=166666666 - 4, NickName=¹þ¹þ¹þ¹þ¸ô, MarkName=.
+[2021-01-18 16:03:08:0735][Normal] [ThreadID:23308][void __thiscall CMainDlg::UpdateBuddyTreeCtrl(unsigned int)]AccountID=5, AccountName=1069619619 - 5, NickName=Ò×·ÉÔÆ, MarkName=.
+[2021-01-18 16:03:08:0736][Normal] [ThreadID:23308][void __thiscall CMainDlg::UpdateBuddyTreeCtrl(unsigned int)]AccountID=6, AccountName=134672222 - 6, NickName=·Æ¿Ë, MarkName=.
+[2021-01-18 16:08:57:0311][Normal] [ThreadID:22840][int __thiscall CSendMsgThread::ProcessBuddyMsg(class CBuddyMessage *)]Send chat msg: msgID=0, senderId=2, targetId=5.

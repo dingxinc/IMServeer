@@ -1,0 +1,142 @@
+package tms;
+
+
+enum cmd
+{
+    //Heartbeat = 0;
+	n_AnsInfo = 0;
+   // talk msg
+	n_TalkMsg = 1;
+		
+	n_TalkMsgAns = 2;
+	n_PullTalkMsgReq = 3;
+	n_MsgInfoNotify = 11;
+		
+	// user	
+	n_TargetInfo = 34;		
+	n_FriendInfo = 35;
+	n_UserTargets = 36;
+	n_UserPrivateInfo = 37;
+	n_UserInfo=38;
+	n_UserOnlineInfo = 39;
+	n_LoginInfo = 40;
+	n_RegisterInfo = 41;
+	n_UserInfoReq=42;
+	n_TargetsQuery = 43;
+	n_UpdateUserInfo = 44;
+	n_TargetsAdd = 45;
+	n_UpdateTargetInfo = 46;
+	
+	n_StateServerReq = 47;
+	
+	// old
+	n_UserInfo_Old = 48;
+	
+	// notify
+	n_UserInfoNotify = 101;
+	n_UserBaseInfoNotify = 102;
+	n_TargetsAddNotify = 103;
+	n_TargetsNotify = 104;
+	n_UserOnlineNotify = 105;
+	
+	// server
+	n_ReqHeartbeat = 1001;
+	n_AnsHeartbeat = 1002;
+	n_ServerTime = 1003;
+	n_FileLoadData = 1007;
+	n_FileLoadInfo = 1008;
+	
+	n_UserOnlineNotifyList = 1020;
+	n_TalkMsgBaseList = 1021;
+	n_ChatMsgBaseList = 1022;
+	n_UserMsgIDList = 1023;
+	n_ServerInfo = 1024;
+	n_ServerInfoList = 1025;
+	n_ServerOut = 1026;
+	n_TargtServerIDList = 1027;
+	n_UserLoginFlagList = 1028;
+	n_TargetOnlineInfo = 1029;
+	
+	n_ChatUser = 1030;
+}
+
+
+message AnsInfo
+{
+    required uint32 uError = 1;
+	required tms.cmd tCmd = 2;
+	optional string strAccountNo=3;
+	required uint32 uAccountID = 4;
+}
+
+message ServerTime
+{
+    required uint64 uServerTime = 1;
+}
+
+message FileLoadInfo
+{
+    required string strName = 1;
+	required uint32 uOffset = 2;
+	required uint32 uDownsize = 3;
+	required uint32 uLocalsize = 4;
+	required uint32 uLocaltime = 5;
+	required uint32 bVersion = 6;
+}
+
+message FileLoadData
+{
+    required uint32 uError = 1;
+	required uint32 uFilesize = 2;
+	required uint32 uOffset = 3;
+	required uint32 uDownsize = 4;
+	required uint32 uTmmodified = 5;
+	optional bytes  szData = 6;
+}
+
+// server message
+
+message StateServerReq
+{
+	enum cmd{
+		ChatMsgIDALL=1;
+		TalkMsgIDALL=2;
+		UserMsgIDALL=3;
+		TargetInfoALL=4;
+		TargtServerIDALL=5;
+		UserLoginFlagALL=6;
+	}
+	required cmd ncmd = 1;
+}
+
+message ServerInfo
+{
+    required uint32 uServerID = 1;
+	required string strServerIP = 2;
+	required uint32 usServerPort = 3;
+}
+
+message ServerOut
+{
+    required uint32 uServerID = 1;
+}
+
+message ServerInfoList
+{
+    repeated ServerInfo ServerInfos = 1;
+}
+message TargtServerID
+{
+    required uint32 uTargetID = 1[default = 0];
+	required uint32 uServerID = 2[default = 0];
+}
+message TargtServerIDList
+{
+    repeated TargtServerID TargtServerIDs = 1;
+}
+
+message TargetOnlineInfo
+{
+	required uint32 uAccountID = 1[default = 0];
+    required uint32 uSessionID = 2[default = 0];
+}

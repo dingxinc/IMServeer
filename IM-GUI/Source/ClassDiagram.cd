@@ -1,0 +1,2139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAEAAAAEAAAAAAAAAACAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAddFriendConfirmDlg" Collapsed="true">
+    <Position X="76.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAhAAAAAAAAgAEAAAABI=</HashCode>
+      <FileName>AddFriendConfirmDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBuddyChatDlg" Collapsed="true">
+    <Position X="82" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BuddyChatDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBuddyInfoDlg" Collapsed="true">
+    <Position X="85.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BuddyInfoDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBuddyItem" Collapsed="true">
+    <Position X="87.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAmEAACAAIAAABgIAAACAQQAAgEAAAIBABgAAAA=</HashCode>
+      <FileName>BuddyListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBuddyTeamItem" Collapsed="true">
+    <Position X="75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgBAAAAAAAAAIAAAQACAAEAAAgAAAIAAACAQAA=</HashCode>
+      <FileName>BuddyListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBuddyListCtrl" Collapsed="true">
+    <Position X="90.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BuddyListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChangePicHeadDlg" Collapsed="true">
+    <Position X="80.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChangePicHeadDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChatTabMgr" Collapsed="true">
+    <Position X="82" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgCAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChatTabMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClosePromptDlg" Collapsed="true">
+    <Position X="83.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>ClosePromptDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCreateNewGroupDlg" Collapsed="true">
+    <Position X="87.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAgAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreateNewGroupDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFaceCtrl" Collapsed="true">
+    <Position X="73.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>FaceCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFaceSelDlg" Collapsed="true">
+    <Position X="78.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>FaceSelDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileTransferItem" Collapsed="true">
+    <Position X="85.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBGggAIAAACAIAASAAAAACAAAAAAAAAIgACAAEEA=</HashCode>
+      <FileName>FileTransferCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileTransferCtrl" Collapsed="true">
+    <Position X="83.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileTransferCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFindFriendDlg" Collapsed="true">
+    <Position X="87.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAACAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>FindFriendDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFontSelDlg" Collapsed="true">
+    <Position X="90.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>FontSelDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroupChatDlg" Collapsed="true">
+    <Position X="78.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAgAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>GroupChatDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroupInfoDlg" Collapsed="true">
+    <Position X="82" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>GroupInfoDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLoginDlg" Collapsed="true">
+    <Position X="76.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoginDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLoginSettingsDlg" Collapsed="true">
+    <Position X="78.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAACAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>LoginSettingsDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLogonUserInfoDlg" Collapsed="true">
+    <Position X="80.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>LogonUserInfoDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGMemberInfoMapKey" Collapsed="true">
+    <Position X="75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAgAACAAAA=</HashCode>
+      <FileName>MainDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainDlg" Collapsed="true">
+    <Position X="87.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAgAAAAAAAAAAAAAgAAAAAEAAAAAAAA=</HashCode>
+      <FileName>MainDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMobileStatusDlg" Collapsed="true">
+    <Position X="75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>MobileStatusDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModifyMarkNameDlg" Collapsed="true">
+    <Position X="76.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModifyMarkNameDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModifyPasswordDlg" Collapsed="true">
+    <Position X="78.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModifyPasswordDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMsgTipDlg" Collapsed="true">
+    <Position X="82" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>MsgTipDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMultiChatDlg" Collapsed="true">
+    <Position X="83.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAgAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultiChatDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMultiChatMemberSelectionDlg" Collapsed="true">
+    <Position X="85.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAIAAQAAAA=</HashCode>
+      <FileName>MultiChatMemberSelectionDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPicBarDlg" Collapsed="true">
+    <Position X="90.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>PicBarDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRecentItem" Collapsed="true">
+    <Position X="73.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAIAACAAAAgBAAAAAAAAAgAAAAMBAQAAgAA=</HashCode>
+      <FileName>RecentListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRecentTeamItem" Collapsed="true">
+    <Position X="78.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAgAEAAAIAAAAACAAEAAAgAAAIAAACAQAA=</HashCode>
+      <FileName>RecentListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRecentListCtrl" Collapsed="true">
+    <Position X="76.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAABAA=</HashCode>
+      <FileName>RecentListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRegisterDialog" Collapsed="true">
+    <Position X="82" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RegisterDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSessChatDlg" Collapsed="true">
+    <Position X="83.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>SessChatDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSplitterCtrl" Collapsed="true">
+    <Position X="80.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAACAAAAAAAA=</HashCode>
+      <FileName>SplitterCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSystemSettingDlg" Collapsed="true">
+    <Position X="85.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SystemSettingDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTeamDlg" Collapsed="true">
+    <Position X="87.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TeamDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUpdateDlg" Collapsed="true">
+    <Position X="73.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UpdateDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserSnapInfoDlg" Collapsed="true">
+    <Position X="80.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserSnapInfoDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNetData" Collapsed="true">
+    <Position X="36.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAIAAAAAAAAAAAAEAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRegisterRequest" Collapsed="true">
+    <Position X="62.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAACAAAAAEAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRegisterResult" Collapsed="true">
+    <Position X="66.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAFAAAAAAIAAAAAAAAAAAAAIAIAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLoginRequest" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBEAAAAAAAAAAAIAgAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLoginResult" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhEAAACIEAAAGAAAgAIAIAAAAAAAAgAAAAAACQEAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserBasicInfoRequest">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserBasicInfoResult" Collapsed="true">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroupBasicInfoRequest" Collapsed="true">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroupBasicInfoResult" Collapsed="true">
+    <Position X="26.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserExtendInfoRequest" Collapsed="true">
+    <Position X="30.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserExtendInfoResult" Collapsed="true">
+    <Position X="35.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLoginUserFriendsIDRequest" Collapsed="true">
+    <Position X="39.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACCAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLoginUserFriendsIDResult" Collapsed="true">
+    <Position X="44.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAACAAIAAAAAAAAAAAAEBAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFriendStatus" Collapsed="true">
+    <Position X="48.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAAACAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFindFriendRequest" Collapsed="true">
+    <Position X="51" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAgAAAAAAAAAAAAAQAAAAAAABAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFindFriendResult" Collapsed="true">
+    <Position X="53.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAgAAAAAAAAAAAAAAAAAAAIAEIEA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COperateFriendRequest" Collapsed="true">
+    <Position X="55.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAQAAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COperateFriendResult" Collapsed="true">
+    <Position X="57.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAQAAAAAACAAAggAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSentChatMessage" Collapsed="true">
+    <Position X="60" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAAAAAABAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSentChatConfirmImageMessage" Collapsed="true">
+    <Position X="64.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAABAgCAAACAAAAAAAABAAAAAAQAABAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRecvChatMessage" Collapsed="true">
+    <Position X="69" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAkEAAAAAAAABAAAAAAAAAACAAAAAAAAAAQAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModifyPasswordRequest" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAQAAAAAAAEAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModifyPasswordResult">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAIAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCreateNewGroupRequest">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCreateNewGroupResult" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIACAAQAAAAAAAAAAAAAAAACAAEAIAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHeartbeatMessageRequest" Collapsed="true">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHeartbeatMessageResult" Collapsed="true">
+    <Position X="28.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUpdateLogonUserInfoRequest" Collapsed="true">
+    <Position X="33" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgAAAACAEAAAAAIAAAIAIAAAAQACAAAAAABAAQEAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUpdateLogonUserInfoResult" Collapsed="true">
+    <Position X="37.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgAAQACAEAAAAAIQAAIAIAAAAAAAAAAAAABAAQEAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTargetInfoChangeResult" Collapsed="true">
+    <Position X="42" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAgAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileItemRequest" Collapsed="true">
+    <Position X="46.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAEAAAgCAAAAACAAAAABAAABQAAAIAACEAgAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUploadFileResult" Collapsed="true">
+    <Position X="76.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAACEAAIAAAAAAAAAAAAAAAAARAEIAAAACAgABA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CIUSocket" Collapsed="true">
+    <Position X="71.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAIBAAAgAREAqRxEAOYICYCIBFGEQAQIgiIRCACAA=</HashCode>
+      <FileName>net\IUSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCheckNetworkStatusTask" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAACAgAAAAAAAAAYGAAAAAAAAI=</HashCode>
+      <FileName>CheckNetworkStatusTask.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileTask" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAFAAQABAAQAAAAIQAgBAQAAMEaAAAEACAAAI=</HashCode>
+      <FileName>FileTask.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHeartbeatTask" Collapsed="true">
+    <Position X="2.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAEAAABIAAAAACAAABAIIAAAAICAAAAAAAAI=</HashCode>
+      <FileName>HeartbeatTask.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGMemberMapKey" Collapsed="true">
+    <Position X="76.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAQAAAEAAAgAACAAAA=</HashCode>
+      <FileName>RecvMsgThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRecvMsg" Collapsed="true">
+    <Position X="80.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>RecvMsgThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRecvMsgThread" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIADECtJJICRCAJMQAiGCARAAAAAIIMAIICDQAiIiCI=</HashCode>
+      <FileName>RecvMsgThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMsgItem" Collapsed="true">
+    <Position X="80.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAQAAAAgAAAAAGAEBAAAFAAABAAA=</HashCode>
+      <FileName>SendMsgThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSendMsgThread" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICiELEoAQAQiMMEkIAJgIwAgAgQSAMAMAABAGCAKAI=</HashCode>
+      <FileName>SendMsgThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CThread" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAAAAAACAAAAoAAAAAAAgAAAAAAAAAJAAgAAAAAAI=</HashCode>
+      <FileName>Thread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CThreadPoolTask" Collapsed="true">
+    <Position X="1.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAIAAAAQAAAAAAAAAAAICAAAAABAgI=</HashCode>
+      <FileName>ThreadPool.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CThreadPool" Collapsed="true">
+    <Position X="89" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgBCAACAIAEACBCAAAAAgABAAAAAAABAACIARAAAE=</HashCode>
+      <FileName>ThreadPool.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBuffer" Collapsed="true">
+    <Position X="76.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgYAAAAAEAAAAACIAAAIAAQAgAAAEABCAAJEABAAAAA=</HashCode>
+      <FileName>Buffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAutoCriticalSection" Collapsed="true">
+    <Position X="78.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAAAAAAAAAAAAAAAAAAAAAIAIAAAAAAACAAAAAAA=</HashCode>
+      <FileName>CriticalSection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAutoFileHandle" Collapsed="true">
+    <Position X="80.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAACAABAEAAA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFile" Collapsed="true">
+    <Position X="80.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAEAIACAAAAAAAggAAAAAAAAAAAAAAGEABA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFile2" Collapsed="true">
+    <Position X="82" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAYCAGjAAABAAgAAAAQAQAQAIAAAGMgAQ=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CIniFile" Collapsed="true">
+    <Position X="89" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAwAAAAAABAQQAAAAAAAAAAAAA=</HashCode>
+      <FileName>IniFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CIULog" Collapsed="true">
+    <Position X="90.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAIAAIAAAAAAgAAAIAAAACAAAAAAA=</HashCode>
+      <FileName>IULog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MD5" Collapsed="true">
+    <Position X="90.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACQEAkAAAAIAgAAACADAAAACAGAABAAACgAAAEAAA=</HashCode>
+      <FileName>MD5.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MD5Sum" Collapsed="true">
+    <Position X="71.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABgAAAACAAAAACAIAAAAAAAEA=</HashCode>
+      <FileName>MD5Sum.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMiniBuffer" Collapsed="true">
+    <Position X="73.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACIBCgAAAAAAAAAAAAAgAAAEQAABAAAAA=</HashCode>
+      <FileName>MiniBuffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Updater" Collapsed="true">
+    <Position X="82" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAQAQAAAAA=</HashCode>
+      <FileName>Updater.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinButton" Collapsed="true">
+    <Position X="87.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinComboBox_Edit" Collapsed="true">
+    <Position X="90.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>SkinLib\SkinComboBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinComboBox_Static" Collapsed="true">
+    <Position X="73.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinComboBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinComboBox_ListBox" Collapsed="true">
+    <Position X="71.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinComboBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinComboBox" Collapsed="true">
+    <Position X="89" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>SkinLib\SkinComboBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinDialog" Collapsed="true">
+    <Position X="75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinEdit" Collapsed="true">
+    <Position X="76.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinEdit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinHyperLink" Collapsed="true">
+    <Position X="78.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>SkinLib\SkinHyperLink.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLVColumn" Collapsed="true">
+    <Position X="82" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAEAgAAAIAAAAAAAACAIAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLVItem" Collapsed="true">
+    <Position X="83.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAgAAAAAAAAAAAAIAQAAAAACAIAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLVRow" Collapsed="true">
+    <Position X="85.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAABBCBAgEBEAAAQAAAAAAhQAAACAAgAAACACAAEA=</HashCode>
+      <FileName>SkinLib\SkinListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinListCtrl" Collapsed="true">
+    <Position X="80.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinManager" Collapsed="true">
+    <Position X="82" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEACAAAAAwAAABBAgiAAiQQBAEAAAIAAYASAAAAiAA=</HashCode>
+      <FileName>SkinLib\SkinManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinMenu" Collapsed="true">
+    <Position X="83.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQQAguCQIiAJAAIEqIEQAMFAhIQDAQIlABQhMQKAAOA=</HashCode>
+      <FileName>SkinLib\SkinMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinMessageBox" Collapsed="true">
+    <Position X="85.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinMessageBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinPictureBox" Collapsed="true">
+    <Position X="87.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinPictureBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTxtWinHost" Collapsed="true">
+    <Position X="71.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RFLMjUCgsRPPFhBvBAcgKYNzYiPAwhLcAQEudDIGAYM=</HashCode>
+      <FileName>SkinLib\SkinRichEdit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinRichEdit" Collapsed="true">
+    <Position X="89" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinRichEdit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinScrollBar" Collapsed="true">
+    <Position X="90.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AZWJdkB/RU4JEKpFBbNSAFBkEBpRA3EEBqkQHRsShsA=</HashCode>
+      <FileName>SkinLib\SkinScrollBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinStatic" Collapsed="true">
+    <Position X="71.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinStatic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinTabCtrlItem" Collapsed="true">
+    <Position X="75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAkAAgAEAAAQAgBBBAAEQAgAAAAAAAAQQgIAAAUAAAA=</HashCode>
+      <FileName>SkinLib\SkinTabCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinTabCtrl" Collapsed="true">
+    <Position X="73.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinTabCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinToolBarItem" Collapsed="true">
+    <Position X="78.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAoAAQACIAACAgBBhAAEQAAAACABAAAQQgIAAAUAAQA=</HashCode>
+      <FileName>SkinLib\SkinToolBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinToolBar" Collapsed="true">
+    <Position X="76.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>SkinLib\SkinToolBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserConfig" Collapsed="true">
+    <Position X="78.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BSgGgABBJBykJI2JlkBrokruINoRARhBWAeCBAyiCGg=</HashCode>
+      <FileName>UserConfig.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBuddyInfo" Collapsed="true">
+    <Position X="83.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBEIAEiAAgAFAEQAAAIACAAAQAIAAEAAAUBAAiAEAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBuddyTeamInfo" Collapsed="true">
+    <Position X="73.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAABAAAAAABAAAAQAQAAAAAAAIAAAAAACAAAAFQAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COnlineBuddyInfo" Collapsed="true">
+    <Position X="87.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAABAAQAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBuddyList" Collapsed="true">
+    <Position X="89" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAExABQAAARAAAAAAIAAAABAgJAAQAAAEAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroupInfo" Collapsed="true">
+    <Position X="80.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAEAAAAARAgIgAASoIAKAQAIBAwQACAAAIEQRAI=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroupList" Collapsed="true">
+    <Position X="83.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAEFACAAgAQAAAAAAAgAAgGAAAAAAEAAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRecentInfo" Collapsed="true">
+    <Position X="71.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAEBAAIAAAAAACAAAAAAAABAAAQAACBAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRecentList" Collapsed="true">
+    <Position X="75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAgAAAAABAAAABAAAAAAAAgQAAAAABAAAQBAAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFontInfo" Collapsed="true">
+    <Position X="89" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAggAAAAiAAAAAAAAAQAAAAAAAAIBAAAAQAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCustomFaceInfo" Collapsed="true">
+    <Position X="89" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAABAACAAAQAAQAAAAAAAAAAQAAAAAAACIAAAABQAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CContent" Collapsed="true">
+    <Position X="85.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAIAgAIAAAAAAAAAEAAAAAAABACAAABAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBuddyMessage" Collapsed="true">
+    <Position X="71.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEkAAAAAAERBAAQEAAYAAAAAAAEAAAAAAAJAAAAAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroupMessage" Collapsed="true">
+    <Position X="85.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEkIAAAAgEQBAAQEAAIgAAAAAAEAABCAAAIAAAEAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSessMessage" Collapsed="true">
+    <Position X="85.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEgAAAAAAFQBAAQEAAIAAAAAAAkFAAAQAAIAAAAAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStatusChangeMessage" Collapsed="true">
+    <Position X="82" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAAAgABAAQAAAAAAAAAAAAAAAAAAAIAACBAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CKickMessage" Collapsed="true">
+    <Position X="73.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAQAAQBAAQEEAIAIAAAAAEAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSysGroupMessage" Collapsed="true">
+    <Position X="83.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAEAEAAARBA4QEAEIgIIAAAAEAAAAAAAogAAAAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUpdateFriendInfoMsg" Collapsed="true">
+    <Position X="75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAEQBABQEAAIAAAAAAAkAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMessageSender" Collapsed="true">
+    <Position X="71.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAEAAAAAAEAACAEgRAEFCAAAQAACAAAABQZARA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMessageList" Collapsed="true">
+    <Position X="89" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAECAACAAQgCAACAggAAAAAAAAAAACAAAABAIABA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEdoyunClient" Collapsed="true">
+    <Position X="90.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wBFnUUaMkpIAY8PVg40MDNuEvy71GRM4mMk3tQlrrUQ=</HashCode>
+      <FileName>EdoyunIMClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEdoyunUserMgr" Collapsed="true">
+    <Position X="71.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEFMEoQAACABAEBHIkGMBQGmZAQECIAAjQGQgADbKaQ=</HashCode>
+      <FileName>UserMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoUnhandleExceptionFilter" Collapsed="true">
+    <Position X="71.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Crash.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCascadeWinManager" Collapsed="true">
+    <Position X="78.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAAAAAACAAAAAAAAAAAEAAAAAAACAAAhAAAA=</HashCode>
+      <FileName>CascadeWinManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFaceInfo" Collapsed="true">
+    <Position X="75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAASAgAAAAgAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>FaceList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFaceList" Collapsed="true">
+    <Position X="76.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAABAAABAAAAAAAAAAQAIAAAACgMAAUQgA=</HashCode>
+      <FileName>FaceList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGDIFactory" Collapsed="true">
+    <Position X="71.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAABACAAAAAAAAgAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>GDIFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGifImage" Collapsed="true">
+    <Position X="73.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMwQBEAAAAQAgAACBAACEhAABBAAQAAAgAABEAEEAA=</HashCode>
+      <FileName>GifImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CImageEx" Collapsed="true">
+    <Position X="87.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMCAAAAAAAAAAgACgCACAAAAAAAAQAAAAwBAAAAEEA=</HashCode>
+      <FileName>ImageEx.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLoginAccountList" Collapsed="true">
+    <Position X="75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQYMIAAAAABAgACQAAAAAAAAgIAqAAAABAAkAABABAA=</HashCode>
+      <FileName>LoginAccountList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMessageLogger" Collapsed="true">
+    <Position X="90.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAwAQAAACARpBMLASBAAAAACAAAAAAAmDIBoAAAACQ=</HashCode>
+      <FileName>MessageLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTrayIcon" Collapsed="true">
+    <Position X="90.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAABAAAAIIAAAIEQAIACAAAEAAAIAAEABAAAAgA=</HashCode>
+      <FileName>TrayIcon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVerifyCodeDlg" Collapsed="true">
+    <Position X="82" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>VerifyCodeDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CXmlNode" Collapsed="true">
+    <Position X="85.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAIACAAAAAIYAAAAAAAAAIIAAAYAAAAAARAgAQA=</HashCode>
+      <FileName>XmlDocument.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CXmlNodeList" Collapsed="true">
+    <Position X="87.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAEIABAAAAAAAAIAAAQAAAAAAABEAAAA=</HashCode>
+      <FileName>XmlDocument.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CXmlDocument" Collapsed="true">
+    <Position X="83.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAACAAgAAAAAAAAAAAAQAIAAAAAAAAAABAQAAA=</HashCode>
+      <FileName>XmlDocument.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefaultValueArrayAllocator">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAIAAQAAACBAAAgAAAAAAQAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>jsoncpp-0.5.0\json_internalarray.inl</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefaultValueMapAllocator" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAwAAQAAAgAAAAAAAAAAAAEAAABAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\json_internalmap.inl</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yt::BinaryReadStream2" Collapsed="true">
+    <Position X="11.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAAAEEAAAAACAEACAEAAgAAAAEEAAAAAgAACAQAA=</HashCode>
+      <FileName>net\protocolstream.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yt::BinaryWriteStream3" Collapsed="true">
+    <Position X="8.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAEAAAABCAAIAAAAAAAAAAAAAAAAAAAAFIAAA=</HashCode>
+      <FileName>net\protocolstream.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hootina::CPath" Collapsed="true">
+    <Position X="89" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAEAQCgEAACAAAAQIAAAQABIAwAIAAEAQA=</HashCode>
+      <FileName>Path.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::DefaultValueAllocator" Collapsed="true">
+    <Position X="5.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAEAAAAAAABAAAAAAGAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\json_value.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::Features" Collapsed="true">
+    <Position X="89" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAABAAAAMACAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\features.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::FastWriter" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACAAAAAABAAAAAAAAAAAAAAIAAAAAAQAAEAAAAAE=</HashCode>
+      <FileName>jsoncpp-0.5.0\writer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::StyledWriter" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIBAAEIAQICAAAABAAAAAAAAAIBAAAAQQAQBAAIgBE=</HashCode>
+      <FileName>jsoncpp-0.5.0\writer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::Reader" Collapsed="true">
+    <Position X="76.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAEIAAIAABADBEBAIAAAAASAgIBzUCCADEEYEAgIIo=</HashCode>
+      <FileName>jsoncpp-0.5.0\reader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::StaticString" Collapsed="true">
+    <Position X="78.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAEAAAAAAAAAAAAAAAABAAAAAQAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::Path" Collapsed="true">
+    <Position X="73.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAACAAIAgAAAAAAAABEgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::PathArgument" Collapsed="true">
+    <Position X="75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAgAAACAAAAAAAAAABAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::Value" Collapsed="true">
+    <Position X="83.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAoGAgSgCAECCACAIQoSYkSAAWBEnAAAQUhSAAoQBA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::ValueIteratorBase" Collapsed="true">
+    <Position X="6.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAACAAAAAhAAAAAAAkASAgQAAAAQIAAEAgAAABAEA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::ValueIterator" Collapsed="true">
+    <Position X="5.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAAACAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::ValueConstIterator" Collapsed="true">
+    <Position X="7.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQCEAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::ValueAllocator" Collapsed="true">
+    <Position X="5.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAgBAAAAAAGAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::ValueMapAllocator" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAwAAQAAAgAAAAAAAAAAAAEACABAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::ValueInternalLink" Collapsed="true">
+    <Position X="87.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAoAAAAAAAAAAAABEAgAAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::ValueInternalArray" Collapsed="true">
+    <Position X="85.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAACACCAIAAAgJAAACBgIEBAAAAAiwAgAABAQAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::ValueInternalMap" Collapsed="true">
+    <Position X="89" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAAACAQBAHBICEACAgAGBAADIAD4AgAAAAQAg=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::BatchAllocator&lt;AllocatedType, objectPerAllocation&gt;" Collapsed="true">
+    <Position X="73.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAZEIAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAkAAAAAgA=</HashCode>
+      <FileName>jsoncpp-0.5.0\json_batchallocator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::ValueArrayAllocator" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAIAAQAAAABAAAgAAAAAAQAAgAAAAAAAAAAAAAg=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::Writer" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\writer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Json::StyledStreamWriter" Collapsed="true">
+    <Position X="80.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAAEIAQIOAAAABAAAAAAACAIBAAAAAQAQBAAIgBE=</HashCode>
+      <FileName>jsoncpp-0.5.0\writer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="NMHDREx" Collapsed="true">
+    <Position X="80.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAABAA=</HashCode>
+      <FileName>BuddyListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TAB_WINDOW_INFO" Collapsed="true">
+    <Position X="78.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAACAAAAAEAAAAAAAAAAAAACAAAAEAACAAAAAAAA=</HashCode>
+      <FileName>ChatTabMgr.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TWI_HEADER" Collapsed="true">
+    <Position X="83.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAA=</HashCode>
+      <FileName>ChatTabMgr.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagFileTransferNMHDREx">
+    <Position X="12.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAQAAAAAEAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>FileTransferCtrl.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="file_msg" Collapsed="true">
+    <Position X="89" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>net\FileMsg.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FindUserOrGroupResult" Collapsed="true">
+    <Position X="71.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAAACIAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="AddFriendInfo" Collapsed="true">
+    <Position X="71.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAAACAACAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="UserBasicInfo" Collapsed="true">
+    <Position X="85.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAIAICAAAAABFAAAgAAAgACAAAAAAAACACAQA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="UserExtendInfo" Collapsed="true">
+    <Position X="87.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggEAAMAAiAgEAAAAABIAAAEAAAABBCAAAAAAAAAsAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FileProgress" Collapsed="true">
+    <Position X="90.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="msg" Collapsed="true">
+    <Position X="78.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>net\Msg.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RMT_BUDDY_DATA" Collapsed="true">
+    <Position X="85.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>RecvMsgThread.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RMT_GROUP_DATA" Collapsed="true">
+    <Position X="89" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RecvMsgThread.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RMT_GMEMBER_REQ" Collapsed="true">
+    <Position X="87.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RecvMsgThread.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CachedChatMsg" Collapsed="true">
+    <Position X="78.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAEAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RecvMsgThread.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CachedNotifyMsg" Collapsed="true">
+    <Position X="80.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RecvMsgThread.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TP_THREAD_INFO" Collapsed="true">
+    <Position X="80.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ThreadPool.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0072_1" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAABAAAAAAAA=</HashCode>
+      <FileName>MD5Sum.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SKIN_INFO" Collapsed="true">
+    <Position X="73.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>SkinLib\SkinManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SKIN_IMAGE_INFO" Collapsed="true">
+    <Position X="71.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SKIN_MENU_ITEM_INFO" Collapsed="true">
+    <Position X="75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAABAAQBAAAAAAACAAAAAAIAQAAIAAAA=</HashCode>
+      <FileName>SkinLib\SkinMenu.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BuddyInfo" Collapsed="true">
+    <Position X="75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAAAAAABFAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BuddyTeamInfo" Collapsed="true">
+    <Position X="76.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RecentInfo" Collapsed="true">
+    <Position X="83.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAQAAAAAAAAAAAgCAAAAAACAAIAAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TRAYDATA" Collapsed="true">
+    <Position X="82" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAgAAAAAAAAAAAAAAAIAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>TrayIcon.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CASCADE_WIN_INFO" Collapsed="true">
+    <Position X="82" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>CascadeWinManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="NMRICHEDITOLECALLBACK" Collapsed="true">
+    <Position X="82" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IImageOle.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LOGIN_ACCOUNT_INFO" Collapsed="true">
+    <Position X="76.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAQAAAAAAAAgABAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>LoginAccountList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BUDDY_MSG_LOG" Collapsed="true">
+    <Position X="73.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAAAgAAAAAgAAAAAAAAABAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>MessageLogger.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GROUP_MSG_LOG" Collapsed="true">
+    <Position X="73.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAgAAAAAgAAAAAAAAEBAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>MessageLogger.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SESS_MSG_LOG" Collapsed="true">
+    <Position X="90.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAAAgAAAAAgAAAAAAAAABAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>MessageLogger.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ImageInfo" Collapsed="true">
+    <Position X="75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>RichEditUtil.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_file" Collapsed="true">
+    <Position X="76.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_io_methods" Collapsed="true">
+    <Position X="80.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEgAAIAEgAIAAgAACAAAAAAEBAAQAQAIEACAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_vfs" Collapsed="true">
+    <Position X="73.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgAAAAAABIAAAAAABAAEYAAAAgIAAAGgUAAxCiE=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_mem_methods" Collapsed="true">
+    <Position X="82" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAQAARAAAEAAAAAAAEAABAAAAEAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_vtab" Collapsed="true">
+    <Position X="75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAhAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_index_info" Collapsed="true">
+    <Position X="78.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAYAAAAKAAAAAgAAEAAAAAAAABBAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_vtab_cursor" Collapsed="true">
+    <Position X="76.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_module" Collapsed="true">
+    <Position X="83.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQSAECAIACAAAIAABAAACCBAAgAAAQAAEQgAACEQAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_mutex_methods" Collapsed="true">
+    <Position X="85.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAEAAAIAAIAAAAIABAAAAAAAAAAAACCAAAAAE=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_pcache_page" Collapsed="true">
+    <Position X="90.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_pcache_methods2" Collapsed="true">
+    <Position X="89" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAACIEAAAQRAAIAAAABAAAAAAAAAEAAAAQ=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_pcache_methods" Collapsed="true">
+    <Position X="87.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAACIEAAAQRAAAAAAABAAAAAAAAAEAAAAQ=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="sqlite3_rtree_geometry" Collapsed="true">
+    <Position X="71.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAEAAAABAAACAAAAEAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DummyArrayAllocatorInitializer" Collapsed="true">
+    <Position X="83.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\json_internalarray.inl</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DummyMapAllocatorInitializer" Collapsed="true">
+    <Position X="85.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\json_internalmap.inl</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="yt::ReadStreamImpl" Collapsed="true">
+    <Position X="11.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>net\protocolstream.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="yt::WriteStreamImpl" Collapsed="true">
+    <Position X="8.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAACAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\protocolstream.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Json::DummyValueAllocatorInitializer" Collapsed="true">
+    <Position X="87.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\json_value.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="FILE_TRANSFER_NMHDREX" Collapsed="true">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileTransferCtrl.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PFILE_TRANSFER_NMHDREX" Collapsed="true">
+    <Position X="12.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileTransferCtrl.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="POINTER" Collapsed="true">
+    <Position X="73.25" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MD5Sum.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="UINT2" Collapsed="true">
+    <Position X="76.75" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MD5Sum.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="UINT4" Collapsed="true">
+    <Position X="78.5" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MD5Sum.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MD5_CTX" Collapsed="true">
+    <Position X="15.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MD5Sum.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="tstring" Collapsed="true">
+    <Position X="73.25" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MessageLogger.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3" Collapsed="true">
+    <Position X="75" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite_int64" Collapsed="true">
+    <Position X="5.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite_uint64" Collapsed="true">
+    <Position X="1.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_int64" Collapsed="true">
+    <Position X="5.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_uint64" Collapsed="true">
+    <Position X="1.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_callback" Collapsed="true">
+    <Position X="80.25" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_mutex" Collapsed="true">
+    <Position X="85.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_syscall_ptr" Collapsed="true">
+    <Position X="90.75" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_stmt" Collapsed="true">
+    <Position X="89" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_value" Collapsed="true">
+    <Position X="71.5" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_context" Collapsed="true">
+    <Position X="82" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_destructor_type" Collapsed="true">
+    <Position X="83.75" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_blob" Collapsed="true">
+    <Position X="78.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_pcache" Collapsed="true">
+    <Position X="87.25" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sqlite3_backup" Collapsed="true">
+    <Position X="76.75" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite 3.7.17\sqlite3.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Json::Int" Collapsed="true">
+    <Position X="71.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\forwards.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Json::UInt" Collapsed="true">
+    <Position X="75" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\forwards.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Interface Name="IImageOle" Collapsed="true">
+    <Position X="71.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAAAAAABBEAAAAAAAAEBAUEBBAAAACCCEAAAIEAA=</HashCode>
+      <FileName>IImageOle.h</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IRichEditOleCallback2" Collapsed="true">
+    <Position X="73.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAABAAAAACAAAAAAAAA=</HashCode>
+      <FileName>IImageOle.h</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="PROXY_TYPE" Collapsed="true">
+    <Position X="89" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAEACAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>LoginSettingsDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MAIN_PANEL_MEMU" Collapsed="true">
+    <Position X="73.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEEAAAAgAAQAAAgRgAEAAABAgCAAAAAAAAAAAgAA=</HashCode>
+      <FileName>MainDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BLCTRL_STYLE" Collapsed="true">
+    <Position X="76.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>BuddyListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BLCTRL_TYPE" Collapsed="true">
+    <Position X="78.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>BuddyListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BLCTRL_DISPLAY_MODE" Collapsed="true">
+    <Position X="75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAIAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BuddyListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="POSITION_FLAG" Collapsed="true">
+    <Position X="87.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAkAAA=</HashCode>
+      <FileName>BuddyListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CLICK_TYPE" Collapsed="true">
+    <Position X="83.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChatTabMgr.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FILE_TARGET_TYPE" Collapsed="true">
+    <Position X="78.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>FileTransferCtrl.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HITTEST_BTN_AREA" Collapsed="true">
+    <Position X="87.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAABgQAAAQAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>FileTransferCtrl.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RLCTRL_STATUS_TYPE" Collapsed="true">
+    <Position X="73.25" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAJAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RecentListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TEAM_OPERATION_TYPE" Collapsed="true">
+    <Position X="82" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAQAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TeamDlg.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="file_msg_type" Collapsed="true">
+    <Position X="76.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAACAAgAAAAAAAAAAAAAAACAAgAAAAA=</HashCode>
+      <FileName>net\FileMsg.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CLIENT_TYPE" Collapsed="true">
+    <Position X="85.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEQAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ONLINE_STATUS" Collapsed="true">
+    <Position X="83.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAgAAAAAAAACAAAIAAAEAAAABAAEAACAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ONLINE_CLIENT_TYPE" Collapsed="true">
+    <Position X="82" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAJEgAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LOGIN_TYPE" Collapsed="true">
+    <Position X="71.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LOGIN_RESULT_CODE" Collapsed="true">
+    <Position X="90.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACIAAAAAAAAAABAGAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="REGISTER_RESULT_CODE" Collapsed="true">
+    <Position X="71.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAQAAAIAAAAAAAAAAAAAg=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HEARTBEAT_RESULT_CODE" Collapsed="true">
+    <Position X="85.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OPERATE_FRIEND" Collapsed="true">
+    <Position X="85.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABACAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ADD_FRIEND_RESULT" Collapsed="true">
+    <Position X="73.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAEAAAAAAAAAgAhAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DELETE_FRIEND_RESULT" Collapsed="true">
+    <Position X="90.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SEND_CHAT_MSG_RESULT" Collapsed="true">
+    <Position X="75" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="UPLOAD_USER_THUMB_RESULT" Collapsed="true">
+    <Position X="85.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SEND_FILE_RESULT" Collapsed="true">
+    <Position X="76.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RECV_FILE_RESULT" Collapsed="true">
+    <Position X="90.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GET_USER_INFO_TYPE" Collapsed="true">
+    <Position X="83.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CHAT_MSG_TYPE" Collapsed="true">
+    <Position X="82" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAABAAAQABBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FILE_ITEM_TYPE" Collapsed="true">
+    <Position X="75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAEBAIAAAAAgEACAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FILE_DOWNLOAD_RETCODE" Collapsed="true">
+    <Position X="73.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAQCAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FILE_UPLOAD_RETCODE" Collapsed="true">
+    <Position X="80.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAQAIAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GET_FILE_MD5_RETCODE" Collapsed="true">
+    <Position X="82" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAQAAAAAAAAAAEAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MODIFY_USER_INFO_TYPE" Collapsed="true">
+    <Position X="75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgACAAAAAAAEAAAACAAAAAAgIAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CHAT_CONFIRM_TYPE" Collapsed="true">
+    <Position X="80.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="NET_DATA_TYPE" Collapsed="true">
+    <Position X="80.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABgQgACEAAAAAgEAAAgCCAAEAEEAAAABAAQAAIAA=</HashCode>
+      <FileName>net\IUProtocolData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="msg_type" Collapsed="true">
+    <Position X="76.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAEAAAEAAAAEAAMQAAgAIABMAAAAAAAAAAA=</HashCode>
+      <FileName>net\Msg.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LOG_LEVEL" Collapsed="true">
+    <Position X="89" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>IULog.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SKIN_BUTTON_TYPE" Collapsed="true">
+    <Position X="78.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAgAAAAAAAAAAAEAAAAgAAAAAAAAAABAQAAA=</HashCode>
+      <FileName>SkinLib\SkinButton.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SKIN_LINK_TYPE" Collapsed="true">
+    <Position X="80.25" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinHyperLink.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DRAW_MODE" Collapsed="true">
+    <Position X="71.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinPictureBox.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TXTEFFECT" Collapsed="true">
+    <Position X="83.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SkinLib\SkinRichEdit.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="NAME_STYLE" Collapsed="true">
+    <Position X="78.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>UserConfig.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CONTENT_TYPE" Collapsed="true">
+    <Position X="89" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IFAAAAAAAEAAAAAAAQQAAACAAAAAAAAIAAAAAAABAAA=</HashCode>
+      <FileName>UserSessionData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="yt::__unnamed_enum_008a_1" Collapsed="true">
+    <Position X="71.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAAAAAAIAAAUAAAAgQAAAAAgAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>net\protocolstream.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Json::ValueType" Collapsed="true">
+    <Position X="87.25" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAgADAAAUAAAAAAAAAAIBAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Json::CommentPlacement" Collapsed="true">
+    <Position X="87.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAABACAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>jsoncpp-0.5.0\value.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
